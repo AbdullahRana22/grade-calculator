@@ -1,0 +1,27 @@
+*{
+  margin: 0em;
+  padding: 0em;
+  background-color: black;
+}
+h1{
+    font-family: sans-serif;
+    font-size: 24px;
+    margin-top: 1.7em;
+    margin-left: 23em;
+    color: white;
+}
+.table1{
+    width: 150px;
+    border: 2px solid white;
+    margin-left: 35em;
+    margin-top: 2em;
+    font-family: sans-serif;
+    color: white;
+}
+.table1 th{
+    border: 2px solid white;
+    margin: 0.5em;
+}
+.table1 td{
+    border: 2px solid bisque;
+}
